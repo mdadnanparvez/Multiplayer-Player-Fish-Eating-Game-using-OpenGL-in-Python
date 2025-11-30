@@ -20,6 +20,14 @@ A real-time 2-player fish game developed in Python using OpenGL. Players control
   - A player wins when their score reaches 10 or the opponent’s score falls below 0
 
 
+## Screenshots
+
+### Gameplay
+![View](View.jpeg)  
+*Player 1 (Blue) and Player 2 (Purple) navigating the aquarium*
+
+![View2](View2.jpeg)  
+*Green points increase score; red points reduce opponent's score*
 
 ## Tools & Technologies
 
